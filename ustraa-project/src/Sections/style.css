@@ -1,0 +1,21 @@
+img {
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+}
+
+#section-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.border {
+    border:2px solid black;
+    text-align: center;
+}
+#section-wrapper:hover {
+    cursor: pointer;
+}
+

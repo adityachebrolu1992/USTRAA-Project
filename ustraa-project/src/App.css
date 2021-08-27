@@ -1,0 +1,10 @@
+header {
+  margin: auto;
+  text-align: center;
+  /* font-weight: bolder; */
+  
+}
+
+body {
+  background-image: linear-gradient(to right, rgb(127, 127, 209),rgb(6, 6, 87));
+}

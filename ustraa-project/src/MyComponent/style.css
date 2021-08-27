@@ -1,0 +1,46 @@
+.inner-row-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+}
+
+#parallal-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* border: 2px solid black; */
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+#button {
+    background-color: rgb(66, 209, 66);
+    padding: 15px;
+    color: white;
+    font-weight: 900;
+    border-radius: 5%;
+}
+img {
+    height: 300px;
+    width: 150px;
+    object-fit: contain;
+    
+}
+
+
+
+.space {
+    margin-right: 30px;
+}
+#star {
+    color: gold;
+}
